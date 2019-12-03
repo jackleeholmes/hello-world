@@ -72,5 +72,35 @@ You can create tables by assembling a list of words and dividing them with hyphe
  ------------ | -------------
  Content from cell 1 | Content from all 2
  Content in the first column | Content in the second column
+ ___
  
- 
+> The Strikethrough is not with `***`, Any word wrapped with two tildes (like) will appear crossed out. `~~this~~`
+> Just: ~~this~~
+
+## The Great emoji
+:sweat_smile:
+:smile:
+:joy:
+:upside_down_face:
+:blush:
+:wink:
+:innocent:
+:laughing: \
+:slightly_smiling_face:
+:rofl:
+
+> [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+```
+在GitHub 上出现的Markdown 语言的结构
+标题分级
+文字强调 (加粗/倾斜/删除线)
+网址链接/图片插入
+引用
+表格绘制
+代码块
+emoji插入
+任务列表
+HTML扩展
+LaTeXLaTeX扩展
+```
