@@ -20,13 +20,13 @@
 中文的拼写检查的问题，自然语言处理
 
 字体的一些选择
-⦁	courier
-⦁	consolas
-⦁	hacks
-⦁	dejavu 
-⦁	cascadia 
-⦁	ubuntu
-⦁	source code pro
++ courier
++ Consolas
++ hacks
++ dejavu 
++ cascadia 
++Ubuntu
++ Surce code pro
 
 [佛振的访谈](https://segmentfault.com/a/1190000002424698)
 
